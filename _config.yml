@@ -1,3 +1,13 @@
-title: GL-1 Blog
-description: Updates from Great Lakes Semiconductor
+title: Great Lakes Semiconductor Blog
+email: support@glsemi.io
+description: >
+  Updates and insights on FPGA, Raspberry Pi CM5, and building custom compute hardware.
+baseurl: "" # no subdir because it's on blog.glsemi.io
+url: "https://blog.glsemi.io"
 theme: minima
+
+author:
+  name: Great Lakes Semiconductor
+  email: support@glsemi.io
+
+markdown: kramdown
