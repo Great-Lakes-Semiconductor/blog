@@ -6,8 +6,6 @@ baseurl: "" # no subdir because it's on blog.glsemi.io
 url: "https://blog.glsemi.io"
 theme: minima
 
-author:
-  name: Great Lakes Semiconductor
-  email: support@glsemi.io
+email: support@glsemi.io
 
 markdown: kramdown
